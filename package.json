@@ -1,15 +1,7 @@
 {
-  "name": "english-whwords-test",
+  "name": "english-test",
   "version": "1.0.0",
-  "description": "English Wh-words Test with Telegram reporting",
-  "main": "api/submit.js",
-  "scripts": {
-    "dev": "vercel dev"
-  },
   "dependencies": {
     "node-telegram-bot-api": "^0.64.0"
-  },
-  "engines": {
-    "node": ">=18.x"
   }
 }
